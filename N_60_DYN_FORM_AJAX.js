@@ -1,6 +1,6 @@
 //<form name='form1' action='https://fe.it-academy.by/TestForm.php'></form>
 //<form name='form2' action='https://fe.it-academy.by/TestForm.php'></form>
-
+//<script src='https://fe.it-academy.by/JQ/jquery.js'></script>
 
 function getMass(){
 
